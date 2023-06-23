@@ -13,3 +13,16 @@ DAPP tokens then exchange it with other cryptocurrency. This project has been bu
 
 ## Architecture
 ![bc2](https://github.com/deven1003/DECENTRALIZED_CRYPTO_EXCHANGE-/assets/89897347/2fb4306c-cffe-4031-87f4-373b1307c47e)
+
+
+## Hardware Requirements
+   Processor i5 8th gen or above
+   RAM: 500GB SSD required 
+   ROM: 8GB required 
+
+## Software Requirements
+    Windows OS, Visual Studio, Node.js Ethers.js, hardhat, Solidity,  
+    React.js, Redux , Local Blockchain Meta mask wallet
+
+
+    
