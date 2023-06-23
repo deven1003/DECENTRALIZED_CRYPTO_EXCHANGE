@@ -1,4 +1,4 @@
-# DECENTRALIZED_CRYPTO_EXCHANGE-
+# DECENTRALIZED_CRYPTO_EXCHANGE
 
 The project aims to develop a decentralized cryptocurrency exchange which supports  smart contracts running on the Ethereum network. The platform allows 2 parties to trade totally different currencies using a sensible contract system , deployed on the Ethereum blockchain,that holds a user’s funds till a verified deal has been created by the User. A  proper peer--to-- peer version of the exchange system would enable every user to access the  market while not counting on any central organization to control it. This project will help  user for fast crypto exchange safely using metamask extension, through first creating 
 DAPP tokens then exchange it with other cryptocurrency. This project has been built with React as a frontend and used hardhat for providing Local block chain while development  and the logic written in Solidity for smart contracts. Users have been provided with required  controls to facilitate user experience and have a better view of animations. 
